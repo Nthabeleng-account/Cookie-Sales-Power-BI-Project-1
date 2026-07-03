@@ -36,8 +36,8 @@ The Cookie Sales Dashboard is an interactive Power BI report designed to monitor
 - Data Visualization
 
 ## Dashboard Preview
-https://github.com/Nthabeleng-account/Cookie-Sales-Power-BI-Project-1/blob/main/Cookie%20Sales%20Dashboard.png
 
+![Cookie Sales Dashboard](images/dashboard.png)
 
 ## Project Purpose
 This project demonstrates my ability to transform raw sales data into an interactive business intelligence dashboard. It showcases practical Power BI skills, including data preparation, visualization, and KPI reporting to support business decision-making.
